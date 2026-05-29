@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpalidate",
+        "uuid": 2254252,
+        "checksum": "q0dfd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
